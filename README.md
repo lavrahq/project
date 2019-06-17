@@ -1,5 +1,5 @@
 
-[![Join us on Discord](https://img.shields.io/discord/308323056592486420.svg)](https://discord.gg/64UMVWc)  
+[![Discord](https://img.shields.io/discord/270672972694552576.svg?label=Join%20us%20on%20Discord&style=flat-square)](https://discord.gg/64UMVWc)  
 
 **Note**: The [canary](../../tree/canary) branch is under heavy development – the stable release branch is [master](../../tree/master).
 
